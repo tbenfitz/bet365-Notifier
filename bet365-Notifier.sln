@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bet365-Notifier", "bet365-Notifier\bet365-Notifier.csproj", "{62AA240E-60C1-44DC-885D-7BE4D831E3DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{2B58A4AA-A795-4A67-B1C0-DC042656176F}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AA240E-60C1-44DC-885D-7BE4D831E3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AA240E-60C1-44DC-885D-7BE4D831E3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AA240E-60C1-44DC-885D-7BE4D831E3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AA240E-60C1-44DC-885D-7BE4D831E3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
